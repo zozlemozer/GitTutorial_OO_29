@@ -1,5 +1,5 @@
 # author: zozlemozer
-# project: github tutorial
+# project: github tutorial v2
 # ---
 
 # script purpose: make mtcars plots
